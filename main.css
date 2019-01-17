@@ -12,6 +12,7 @@
     color: #a6a6a6;
 }
 
-a {
+a:hover {
     text-decoration: none;
+    color: #6c757d;
 }
