@@ -1,0 +1,8 @@
+.center {
+    text-align:center;
+    width:100%;
+}
+.center:first-child {
+    margin:auto;
+    text-align:left;
+}
