@@ -11,3 +11,7 @@
 #episode:visited {
     color: #a6a6a6;
 }
+
+a {
+    text-decoration: none;
+}
